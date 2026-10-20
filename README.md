@@ -1,6 +1,7 @@
-# AERODRUMS
+# Trabajo Práctico: Laboratorio de Software
 
-Es una pagina web donde se va a vender productos
+## Descripción del Proyecto
+Página web para la materia Laboratorio de Software con sección de inicio y formulario de contacto.
 
 ## Integrantes del Equipo
 * **Carlos Sermiños** - [@serminoscarlos](https://github.com/serminoscarlos)
@@ -15,5 +16,5 @@ Es una pagina web donde se va a vender productos
 
 ## Cómo ver el proyecto
 1. Clonar el repositorio:
-   ```bash
-   git clone https://github.com/serminoscarlos/AERODRUMS
+```bash
+   git clone https://github.com/serminoscarlos/tp-laboratorio-software.git
